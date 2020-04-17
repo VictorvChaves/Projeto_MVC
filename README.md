@@ -1,2 +1,2 @@
-# Projeto_MVC
-Atividade de MVC
+# padrao_mvc
+Estrutura Básica do Padrão MVC.
